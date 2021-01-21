@@ -7,10 +7,23 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 
 ### Skills
 
-#### Programming Languages
+#### Android
 - Kotlin
+- Java
+- XML Layout
+- Activity Lifecycle
+- Firebase Realtime database
+- OOP
 
-
+#### 🌱learing
+- MVVM,MVP
+- Hilt-Dagger
+- Glide
+- Retrofit
+- Gson
+- SQLite (Room database)
+- Unit test
+- Coroutines
 <!--
 **pleumza2009/pleumza2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
