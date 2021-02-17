@@ -14,15 +14,16 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Activity Lifecycle
 - Firebase Realtime database
 - OOP
+- Retrofit
+- SQLite (Room database)
+- Hilt-Dagger
+- MVVP
+- Glide
+- epressso
+- mockito
 
 #### 🌱learning
-- MVVM,MVP
-- Hilt-Dagger
-- Glide
-- Retrofit
-- Gson
-- SQLite (Room database)
-- Unit test
+- MVP
 - Coroutines
 <!--
 **pleumza2009/pleumza2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
