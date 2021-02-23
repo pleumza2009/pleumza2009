@@ -8,7 +8,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 ### Skills
 
 #### Android
-- Kotlin
+- Kotlin (Main)
 - Java
 - Architecture Component 
 - XML Layout
