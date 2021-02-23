@@ -15,7 +15,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Firebase Realtime database
 - OOP
 - Retrofit
-- SQLite (Room database)
+- Room database
 - Hilt-Dagger
 - MVVP
 - Glide
