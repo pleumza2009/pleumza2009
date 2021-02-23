@@ -10,6 +10,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 #### Android
 - Kotlin
 - Java
+- Architecture Component 
 - XML Layout
 - Activity Lifecycle
 - Firebase Realtime database
