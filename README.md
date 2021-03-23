@@ -12,11 +12,13 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Java
 - Architecture Component 
 - XML Layout
+- Navigation Component
 - Activity Lifecycle
+- SQL
 - Firebase Realtime database
 - OOP
 - Retrofit
-- Room database
+- Room database (SQLite)
 - Hilt-Dagger
 - MVVP
 - Glide
@@ -25,6 +27,13 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 
 #### 🌱learning
 - Coroutines
+
+#### 🔭 Other (Know a little)
+- Python
+- HTML,CSS
+- php
+- Machine learning
+
 <!--
 **pleumza2009/pleumza2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
