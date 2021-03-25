@@ -22,6 +22,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Hilt-Dagger
 - MVVP
 - Glide
+- Truth
 - Epressso
 - Mockito
 
