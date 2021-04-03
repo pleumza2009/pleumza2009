@@ -7,7 +7,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 
 ### Skills
 
-#### :basecampy: Android
+### :basecampy: Android
 
 #### :keyboard::Lauguages
 - Kotlin (Main)
