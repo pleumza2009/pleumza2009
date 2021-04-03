@@ -7,16 +7,19 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 
 ### Skills
 
-#### :basecampy:Android
+#### :basecampy: Android
+
+#### :keyboard::Lauguages
 - Kotlin (Main)
 - Java
+
+#### :books: :Libraries
 - Architecture Component 
 - XML Layout
 - Navigation Component
 - Activity Lifecycle
 - SQL
 - Firebase Realtime database
-- OOP
 - Retrofit
 - Room database (SQLite)
 - Hilt-Dagger
