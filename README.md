@@ -7,13 +7,13 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 
 ### Skills
 
-### :basecampy:Android
+### :basecampy: Android
 
-#### :keyboard:Lauguages
+#### :keyboard: Lauguages
 - Kotlin (Main)
 - Java
 
-#### :books:Libraries
+#### :books: Libraries
 - Architecture Component 
 - XML Layout
 - Navigation Component
@@ -33,7 +33,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Coroutines
 - Material Design
 
-### :atom:	 Other (Know a little)
+### :atom: Other (Know a little)
 - Python
 - HTML,CSS
 - php
