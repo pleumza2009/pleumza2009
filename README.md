@@ -33,7 +33,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Coroutines
 - Material Design
 
-#### :atom:	 Other (Know a little)
+### :atom:	 Other (Know a little)
 - Python
 - HTML,CSS
 - php
