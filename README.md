@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at School of Information, King mongkut's university of technology thonburi. i'm interested in Android devlopment after i do my senior project name "Happien" (https://github.com/pleumza2009/Happien)and you can see more projects about Android. I always learn about android  and try to improve myself
+My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at School of Information, King mongkut's university of technology thonburi. Now, i'm looking from job or somethings new because i will graduate within June and prepare myself for working android development. i'm interested in Android development after i do my senior project name "Happien" (https://github.com/pleumza2009/Happien)and you can see more  about Android stuffs in my github. I always learn about android  and try to improve myself
 
 
 ## Profile
