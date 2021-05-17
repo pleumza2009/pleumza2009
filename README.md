@@ -30,8 +30,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at
 - Mockito
 
 #### 🌱learning
-- Coroutines
-- Material Design
+- data engineering
 
 ### :atom: Other (Know a little)
 - Python
