@@ -1,13 +1,13 @@
 # Hi there 👋
 
-My name is  Thanakorn Jaroensetthakul. I'm  a last semester undergrad student at School of Information, King mongkut's university of technology thonburi. Now, i'm want to be data engineer and prepare and bring big value for everyone. i learned and developed  in Android  after i do my senior project name "Happien" (https://github.com/pleumza2009/Happien)and you can see more  about Android stuffs in my github. I love about miner and learning about it
+My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Information, King mongkut's university of technology thonburi. Now, i'm want to be data engineer and prepare and bring big value for everyone. i learned and developed  in Android  after i do my senior project name "Happien" (https://github.com/pleumza2009/Happien)and you can see more  about Android stuffs in my github. I love about miner and learning about it
 
 
 ## Profile
 
 ### Skills
 
-#### data engineer
+### data engineer
 
 ### :basecampy: Android
 
