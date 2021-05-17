@@ -7,7 +7,8 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 ### Skills
 
-### data engineer
+### data engineer (learning)
+-----------------------
 
 ### :basecampy: Android
 
