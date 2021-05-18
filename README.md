@@ -12,6 +12,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 #### :keyboard: Lauguages
 - Python
+- SQL
 
 
 Knowlegde
@@ -24,13 +25,13 @@ Knowlegde
 #### :keyboard: Lauguages
 - Kotlin (Main)
 - Java
+- SQL
 
 #### :books: Libraries
 - Architecture Component 
 - XML Layout
 - Navigation Component
 - Activity Lifecycle
-- SQL
 - Firebase Realtime database
 - Retrofit
 - Room database (SQLite)
