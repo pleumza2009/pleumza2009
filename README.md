@@ -7,8 +7,17 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 ### Skills
 
-### data engineer (learning)
------------------------
+
+###  :construction_worker_man:	data engineer (learning)
+
+#### :keyboard: Lauguages
+- Python
+
+
+Knowlegde
+ - ETL, ELT concept 
+ -  Machine learning concept
+
 
 ### :basecampy: Android
 
@@ -32,14 +41,10 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 - Epressso
 - Mockito
 
-#### 🌱learning
-- data engineering
 
 ### :atom: Other (Know a little)
-- Python
 - HTML,CSS
 - php
-- Machine learning
 
 <!--
 **pleumza2009/pleumza2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
