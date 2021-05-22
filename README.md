@@ -20,7 +20,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 - XML for Android Layout
 
 
-#### :office: Architecture Component 
+#### :rocket: Android JetPack
 - Navigation Component
 - Activity Lifecycle
 - Room database 
