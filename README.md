@@ -12,7 +12,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 #### :keyboard: Lauguages
 - Kotlin (Main)
-- Java
+- Java 
 - SQL
 
 #### :books: Libraries
