@@ -18,14 +18,16 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 #### :books: Libraries
 - Architecture Component 
 - XML Layout
+- Compose
 - Navigation Component
 - Activity Lifecycle
 - Firebase Realtime database
 - Retrofit
-- Room database (SQLite)
+- Room database 
 - Hilt-Dagger
 - MVVP
 - Glide
+- Coil
 - Truth
 - Epressso
 - Mockito
