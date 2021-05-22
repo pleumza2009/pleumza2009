@@ -10,22 +10,36 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 ### :basecampy: Android
 
+#### :computer: IDE
+- Android Studio
+
 #### :keyboard: Lauguages
 - Kotlin (Main)
 - Java 
 - SQL
+- XML for Android Layout
 
-#### :books: Libraries
-- Architecture Component 
-- XML Layout
-- Compose
+
+#### :office: Architecture Component 
 - Navigation Component
 - Activity Lifecycle
+- Room database 
+- View binding
+- ViewModel
+- LiveData
+- Compose
+
+
+#### :hammer: Design Pattern
+- MVVM
+
+
+
+
+#### :books: Libraries
 - Firebase Realtime database
 - Retrofit
-- Room database 
 - Hilt-Dagger
-- MVVP
 - Glide
 - Coil
 - Truth
