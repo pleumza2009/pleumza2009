@@ -37,7 +37,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 
 #### :books: Libraries
-- Firebase Realtime database
+- Firebase Platform : Realtime database, Firestore and Firebase storage
 - Retrofit
 - Hilt-Dagger
 - Glide
