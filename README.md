@@ -27,7 +27,6 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 - View binding
 - ViewModel
 - LiveData
-- Compose
 
 
 #### :hammer: Design Pattern
