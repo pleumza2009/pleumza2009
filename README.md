@@ -31,6 +31,8 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 
 #### :hammer: Design Pattern
 - MVVM
+- MVP
+- MVC
 
 
 
@@ -58,6 +60,7 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 Knowlegde
  - ETL, ELT concept 
  -  Machine learning concept
+ - Power BI
 
 ### :atom: Other (Know a little)
 - HTML,CSS
