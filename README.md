@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Information, King mongkut's university of technology thonburi. Now, i'm learning to be androi developer, data engineer and I want to buld a great applications and bring big value for everyone, so i want to builds great android applications too. i learned and developed  in Android  after i do my senior project  "Happien" (https://github.com/pleumza2009/Happien) and you can see more  about Android stuffs in my github. I am Non-experience but I always learn for improving my skills
+My name is  Thanakorn Jaroensetthakul. I'm  a Mobile Develper with 2 year expirences. 
 
 
 ## Profile
@@ -27,15 +27,13 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 - View binding
 - ViewModel
 - LiveData
+- Clear Acrh
 
 
 #### :hammer: Design Pattern
 - MVVM
 - MVP
 - MVC
-
-
-
 
 #### :books: Libraries
 - Firebase Platform : Realtime database, Firestore and Firebase storage
@@ -48,23 +46,12 @@ My name is  Thanakorn Jaroensetthakul. I'm  a new grad  from School of Informati
 - Epressso
 - Mockito
 - MPAndroidChart
+- Hawk
+
+### :basecampy: Flutter (learning)
 
 
-###  :construction_worker_man:	data engineer (learning)
 
-#### :keyboard: Lauguages
-- Python
-- SQL
-
-
-Knowlegde
- - ETL, ELT concept 
- -  Machine learning concept
- - Power BI
-
-### :atom: Other (Know a little)
-- HTML,CSS
-- php
 
 <!--
 **pleumza2009/pleumza2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
