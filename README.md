@@ -1,12 +1,11 @@
 # Hi there 👋
 
-My name is  Thanakorn Jaroensetthakul. I'm  a Mobile Develper with 2 year expirences. 
+My name is  Thanakorn Jaroensetthakul. I'm  a Mobile Develper with 3 year expirences. 
 
 
 ## Profile
 
 ### Skills
-
 
 ### :basecampy: Android
 
@@ -23,7 +22,6 @@ My name is  Thanakorn Jaroensetthakul. I'm  a Mobile Develper with 2 year expire
 #### :rocket: Android JetPack
 - Navigation Component
 - Activity Lifecycle
-- Room database 
 - View binding
 - ViewModel
 - LiveData
@@ -38,13 +36,9 @@ My name is  Thanakorn Jaroensetthakul. I'm  a Mobile Develper with 2 year expire
 #### :books: Libraries
 - Firebase Platform : Realtime database, Firestore and Firebase storage
 - Retrofit
-- Hilt-Dagger
 - Koin
 - Glide
 - Coil
-- Truth
-- Epressso
-- Mockito
 - MPAndroidChart
 - Hawk
 
